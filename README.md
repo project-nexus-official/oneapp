@@ -188,7 +188,7 @@ Wir suchen Architekten, keine Zuschauer.
 
 ### So fängst du an
 
-1. Lies den [Bauplan](https://github.com/project-nexus-official/terminal) (mindestens Kap. 1, 5, 9)
+1. Lies den [Bauplan](https://github.com/project-nexus-official/terminal/blob/docs/de/BAUPLAN_%20PROJEKT%20NEXUS_V12.0.pdf) (mindestens Kap. 1, 5, 9)
 2. Lies den [Implementierungsplan](docs/IMPLEMENTIERUNGSPLAN.md) in diesem Repo
 3. Schau dir die [Issues](../../issues) an — nimm dir eins oder eröffne ein neues
 4. Tritt dem [Discord](DISCORD-LINK) bei (Kreis: Code)
